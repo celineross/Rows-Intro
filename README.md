@@ -1,6 +1,6 @@
 # RowsIntro
-class activity
-introduction to grids
-bootstrap
-html
-css
+class activity/
+introduction to grids/
+bootstrap/
+html/
+css/
